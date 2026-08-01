@@ -6,7 +6,7 @@ This is my first Excel portfolio project.
 
 The goal of this project was to analyze bicycle sales data from **2011 to 2016** using Microsoft Excel. The analysis focuses on revenue, cost, and profit across countries, customer age groups, and gender.
 
-**Link:** https://1drv.ms/x/c/01628898e66da50e/IQBfqhKCrHLEQI9SzzXfWOm_ASV9zIYWRDKbUb9inVzpSsw?e=BZJyOM
+**Project File:** [View Excel Workbook on OneDrive](https://1drv.ms/x/c/01628898e66da50e/IQBfqhKCrHLEQI9SzzXfWOm_ASV9zIYWRDKbUb9inVzpSsw?e=BZJyOM)
 
 ---
 
@@ -14,7 +14,9 @@ The goal of this project was to analyze bicycle sales data from **2011 to 2016**
 
 **Dataset:** Bicycle Sales Dataset
 
-The dataset contains bicycle sales information from **2011–2016**, including:
+The dataset contains bicycle sales transactions from 2011 to 2016.
+
+Main variables include:
 
 - Revenue
 - Cost
@@ -28,11 +30,10 @@ The dataset contains bicycle sales information from **2011–2016**, including:
 
 ## 🛠️ Tools Used
 
-- Microsoft Excel
+- Microsoft Excel (Microsoft 365)
 - Pivot Tables
 - Charts
-- Sorting
-- Filtering
+- Sorting & Filtering
 - Basic Data Cleaning
 - Table Formatting
 
@@ -40,7 +41,7 @@ The dataset contains bicycle sales information from **2011–2016**, including:
 
 # 📊 Analysis
 
-## 1️⃣ Revenue by Country (2011–2016)
+## 1️⃣ Revenue by Country
 
 ![Revenue by Country](revenue_by_country_2011_2016.PNG)
 
@@ -65,7 +66,7 @@ The dataset contains bicycle sales information from **2011–2016**, including:
 
 ---
 
-## 3️⃣ Revenue by Age Group (2011–2016)
+## 3️⃣ Revenue by Age Group
 
 ![Revenue by Age Group](revenue_by_age_group_2011_2016.PNG)
 
@@ -89,9 +90,11 @@ These findings help identify the most profitable customer segments and geographi
 
 # 🎯 Skills Demonstrated
 
+- Microsoft Excel
 - Data Cleaning
 - Data Analysis
 - Pivot Tables
+- Charts
 - Data Visualization
+- Sorting & Filtering
 - Business Insights
-- Microsoft Excel
