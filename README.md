@@ -42,7 +42,7 @@ The dataset contains bicycle sales information from **2011–2016**, including:
 
 ## 1️⃣ Revenue by Country (2011–2016)
 
-![Revenue by Country](revenue_by_country_2011_2016.png)
+![Revenue by Country](revenue_by_country_2011_2016.PNG)
 
 ### Key Findings
 
@@ -55,7 +55,7 @@ The dataset contains bicycle sales information from **2011–2016**, including:
 
 ## 2️⃣ Revenue, Cost and Profit by Gender and Country
 
-![Revenue, Cost and Profit by Gender and Country](revenue_cost_and_profit_by_gender_and_country.png)
+![Revenue, Cost and Profit by Gender and Country](revenue_cost_and_profit_by_gender_and_country.PNG)
 
 ### Key Findings
 
@@ -67,7 +67,7 @@ The dataset contains bicycle sales information from **2011–2016**, including:
 
 ## 3️⃣ Revenue by Age Group (2011–2016)
 
-![Revenue by Age Group](revenue_by_age_group_2011_2016.png)
+![Revenue by Age Group](revenue_by_age_group_2011_2016.PNG)
 
 ### Key Findings
 
